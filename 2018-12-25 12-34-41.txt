@@ -1,0 +1,363 @@
+[000:00:00:05.941.116.090][Info] ---------------------------------
+[000:00:00:05.941.251.495][Info] Initializing D3D11...
+[000:00:00:05.941.299.451][Info] Available Video Adapters: 
+[000:00:00:05.949.315.499][Info] 	Adapter 1: NVIDIA GeForce 940MX
+[000:00:00:05.949.418.463][Info] 	  Dedicated VRAM: 2119041024
+[000:00:00:05.949.460.425][Info] 	  Shared VRAM:    4224915456
+[000:00:00:05.949.541.879][Info] 	  output 1: pos={0, 0}, size={1536, 864}, attached=true
+[000:00:00:05.949.661.769][Info] 	  output 2: pos={1920, 0}, size={1920, 1080}, attached=true
+[000:00:00:05.949.791.180][Info] 	Adapter 2: Intel(R) HD Graphics 620
+[000:00:00:05.949.963.257][Info] 	  Dedicated VRAM: 134217728
+[000:00:00:05.949.999.929][Info] 	  Shared VRAM:    4224915456
+[000:00:00:05.958.526.920][Info] Loading up D3D11 on adapter NVIDIA GeForce 940MX (0)
+[000:00:00:06.007.562.935][Info] D3D11 loaded successfully, feature level used: 45056
+[000:00:00:08.177.163.025][Info] ---------------------------------
+[000:00:00:08.177.247.653][Info] video settings reset:
+[000:00:00:08.177.247.653][Info] 	base resolution:   1536x864
+[000:00:00:08.177.247.653][Info] 	output resolution: 1280x720
+[000:00:00:08.177.247.653][Info] 	downscale filter:  Bicubic
+[000:00:00:08.177.247.653][Info] 	fps:               30/1
+[000:00:00:08.177.247.653][Info] 	format:            NV12
+[000:00:00:08.177.247.653][Info] 	YUV mode:          601/Partial
+[000:00:00:08.181.278.068][Debug] ---------------------------------
+[000:00:00:08.183.721.706][Error] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/chrome_elf.dll' not found, loading of module failed
+[000:00:00:08.183.817.970][Debug] ---------------------------------
+[000:00:00:08.184.828.924][Debug] Loading module: coreaudio-encoder.dll
+[000:00:00:08.204.013.066][Info] [CoreAudio encoder]: Adding CoreAudio AAC encoder
+[000:00:00:08.204.129.430][Debug] ---------------------------------
+[000:00:00:08.206.871.382][Debug] Loading module: enc-amf.dll
+[000:00:00:08.207.937.344][Debug] [AMF] <obs_module_load> Loading...
+[000:00:00:08.378.337.522][Error] [AMF] AMF Test failed due to one or more errors.
+[000:00:00:08.378.443.307][Warning] Failed to initialize module 'enc-amf.dll'
+[000:00:00:08.378.541.688][Debug] ---------------------------------
+[000:00:00:08.384.603.531][Debug] Loading module: facemask-plugin.dll
+[000:00:00:08.385.327.102][Debug] ---------------------------------
+[000:00:00:08.386.232.270][Debug] Loading module: image-source.dll
+[000:00:00:08.386.918.816][Debug] ---------------------------------
+[000:00:00:08.401.677.964][Error] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libcef.dll' not found, loading of module failed
+[000:00:00:08.401.785.160][Debug] ---------------------------------
+[000:00:00:08.404.809.911][Error] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libEGL.dll' not found, loading of module failed
+[000:00:00:08.404.904.060][Debug] ---------------------------------
+[000:00:00:08.404.972.820][Error] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libGLESv2.dll' not found, loading of module failed
+[000:00:00:08.405.227.762][Debug] ---------------------------------
+[000:00:00:08.406.634.000][Debug] Loading module: obs-browser.dll
+[000:00:00:08.407.149.174][Info] [obs-browser]: Version 2.1.6
+[000:00:00:08.421.860.719][Debug] ---------------------------------
+[000:00:00:08.423.016.245][Debug] Loading module: obs-ffmpeg.dll
+[000:00:00:08.425.787.465][Info] NVENC supported
+[000:00:00:08.425.857.283][Debug] ---------------------------------
+[000:00:00:08.426.720.490][Debug] Loading module: obs-filters.dll
+[000:00:00:08.427.512.468][Debug] ---------------------------------
+[000:00:00:08.428.496.976][Debug] Loading module: obs-ndi.dll
+[000:00:00:08.429.161.659][Info] [obs-ndi] hello ! (version 4.2.2)
+[000:00:00:08.429.225.130][Error] [obs-ndi] Error when loading the library.
+[000:00:00:08.429.279.081][Warning] Failed to initialize module 'obs-ndi.dll'
+[000:00:00:08.429.352.778][Debug] ---------------------------------
+[000:00:00:08.430.534.046][Debug] Loading module: obs-outputs.dll
+[000:00:00:08.433.126.840][Debug] ---------------------------------
+[000:00:00:08.434.306.698][Debug] Loading module: obs-qsv11.dll
+[000:00:00:08.590.537.304][Debug] ---------------------------------
+[000:00:00:08.592.195.663][Debug] Loading module: obs-text.dll
+[000:00:00:08.593.239.057][Debug] ---------------------------------
+[000:00:00:08.594.155.157][Debug] Loading module: obs-transitions.dll
+[000:00:00:08.594.772.942][Debug] ---------------------------------
+[000:00:00:08.595.607.235][Debug] Loading module: obs-vst.dll
+[000:00:00:08.596.227.841][Debug] ---------------------------------
+[000:00:00:08.597.022.993][Debug] Loading module: obs-x264.dll
+[000:00:00:08.597.599.170][Debug] ---------------------------------
+[000:00:00:08.598.727.545][Debug] Loading module: rtmp-services.dll
+[000:00:00:08.599.309.716][Debug] ---------------------------------
+[000:00:00:08.600.122.146][Debug] Loading module: text-freetype2.dll
+[000:00:00:08.600.720.890][Debug] ---------------------------------
+[000:00:00:08.601.711.040][Debug] Loading module: win-capture.dll
+[000:00:00:08.602.465.288][Debug] ---------------------------------
+[000:00:00:08.603.910.666][Debug] Loading module: win-decklink.dll
+[000:00:00:08.606.919.197][Info] No blackmagic support
+[000:00:00:08.607.002.767][Debug] Failed to start search for DeckLink devices
+[000:00:00:08.607.102.205][Debug] ---------------------------------
+[000:00:00:08.608.439.330][Debug] Loading module: win-dshow.dll
+[000:00:00:08.613.749.746][Debug] ---------------------------------
+[000:00:00:08.614.550.187][Debug] Loading module: win-mf.dll
+[000:00:00:08.614.634.463][Debug] ---------------------------------
+[000:00:00:08.615.438.430][Debug] Loading module: win-wasapi.dll
+[000:00:00:08.634.884.567][Debug] service 'default_service' (rtmp_common) created
+[000:00:00:08.662.240.614][Debug] output 'simple_stream' (rtmp_output) created
+[000:00:00:08.663.260.031][Debug] obs_output_get_signal_handler: Null 'output' parameter
+[000:00:00:08.663.824.219][Debug] output 'simple_file_output' (ffmpeg_muxer) created
+[000:00:00:08.663.928.593][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:00:08.692.834.746][Debug] [CoreAudio encoder]: Default bitrate matching log for bitrate 128:
+[000:00:00:08.692.834.746][Debug] Trying kAudioFormatMPEG4AAC_HE_V2 (0x61616370)
+[000:00:00:08.692.834.746][Debug] AudioConverterNew(&in, &out, &converter): kAudioConverterErr_FormatNotSupported (1718449215)
+[000:00:00:08.692.834.746][Debug] Could not get converter
+[000:00:00:08.692.834.746][Debug] Trying kAudioFormatMPEG4AAC_HE (0x61616368)
+[000:00:00:08.692.834.746][Debug] Found new best match 32000
+[000:00:00:08.692.834.746][Debug] Found new best match 40000
+[000:00:00:08.692.834.746][Debug] Found new best match 48000
+[000:00:00:08.692.834.746][Debug] Found new best match 56000
+[000:00:00:08.692.834.746][Debug] Found new best match 64000
+[000:00:00:08.692.834.746][Debug] Found new best match 80000
+[000:00:00:08.692.834.746][Debug] Trying kAudioFormatMPEG4AAC (0x61616320)
+[000:00:00:08.692.834.746][Debug] Found new best match 96000
+[000:00:00:08.692.834.746][Debug] Found new best match 112000
+[000:00:00:08.692.834.746][Debug] Found new best match 128000
+[000:00:00:08.695.081.271][Debug] [CoreAudio encoder]: Sample rate enumeration log:
+[000:00:00:08.695.081.271][Debug] Trying kAudioFormatMPEG4AAC_HE_V2 (0x61616370)
+[000:00:00:08.695.081.271][Debug] AudioFormatGetPropertyInfo(kAudioFormatProperty_AvailableEncodeSampleRates): kAudioConverterErr_FormatNotSupported (1718449215)
+[000:00:00:08.695.081.271][Debug] Trying kAudioFormatMPEG4AAC_HE (0x61616368)
+[000:00:00:08.695.081.271][Debug] Adding sample rate 16000
+[000:00:00:08.695.081.271][Debug] Adding sample rate 22050
+[000:00:00:08.695.081.271][Debug] Adding sample rate 24000
+[000:00:00:08.695.081.271][Debug] Adding sample rate 32000
+[000:00:00:08.695.081.271][Debug] Adding sample rate 44100
+[000:00:00:08.695.081.271][Debug] Adding sample rate 48000
+[000:00:00:08.695.081.271][Debug] Adding sample rate 88200
+[000:00:00:08.695.081.271][Debug] Adding sample rate 96000
+[000:00:00:08.695.081.271][Debug] Trying kAudioFormatMPEG4AAC (0x61616320)
+[000:00:00:08.695.081.271][Debug] Adding sample rate 8000
+[000:00:00:08.695.081.271][Debug] Adding sample rate 11025
+[000:00:00:08.695.081.271][Debug] Adding sample rate 12000
+[000:00:00:08.695.081.271][Debug] Sample rate 16000 already added
+[000:00:00:08.695.081.271][Debug] Sample rate 22050 already added
+[000:00:00:08.695.081.271][Debug] Sample rate 24000 already added
+[000:00:00:08.695.081.271][Debug] Sample rate 32000 already added
+[000:00:00:08.695.081.271][Debug] Sample rate 44100 already added
+[000:00:00:08.695.081.271][Debug] Sample rate 48000 already added
+[000:00:00:08.702.734.123][Debug] [CoreAudio encoder]: Bitrate enumeration log:
+[000:00:00:08.702.734.123][Debug] Trying kAudioFormatMPEG4AAC_HE_V2 (0x61616370) at 44100 hz
+[000:00:00:08.702.734.123][Debug] AudioConverterNew(&in, &out, &converter): kAudioConverterErr_FormatNotSupported (1718449215)
+[000:00:00:08.702.734.123][Debug] Trying kAudioFormatMPEG4AAC_HE (0x61616368) at 44100 hz
+[000:00:00:08.702.734.123][Debug] Adding bitrate 16000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 20000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 24000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 28000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 32000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 40000
+[000:00:00:08.702.734.123][Debug] Trying kAudioFormatMPEG4AAC (0x61616320) at 44100 hz
+[000:00:00:08.702.734.123][Debug] Bitrate 32000 already added
+[000:00:00:08.702.734.123][Debug] Bitrate 40000 already added
+[000:00:00:08.702.734.123][Debug] Adding bitrate 48000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 56000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 64000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 72000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 80000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 96000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 112000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 128000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 144000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 160000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 192000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 224000
+[000:00:00:08.702.734.123][Debug] Adding bitrate 256000
+[000:00:00:08.709.522.358][Debug] [CoreAudio encoder]: Bitrate enumeration log:
+[000:00:00:08.709.522.358][Debug] Trying kAudioFormatMPEG4AAC_HE_V2 (0x61616370) at 44100 hz
+[000:00:00:08.709.522.358][Debug] AudioConverterNew(&in, &out, &converter): kAudioConverterErr_FormatNotSupported (1718449215)
+[000:00:00:08.709.522.358][Debug] Trying kAudioFormatMPEG4AAC_HE (0x61616368) at 44100 hz
+[000:00:00:08.709.522.358][Debug] Adding bitrate 16000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 20000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 24000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 28000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 32000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 40000
+[000:00:00:08.709.522.358][Debug] Trying kAudioFormatMPEG4AAC (0x61616320) at 44100 hz
+[000:00:00:08.709.522.358][Debug] Bitrate 32000 already added
+[000:00:00:08.709.522.358][Debug] Bitrate 40000 already added
+[000:00:00:08.709.522.358][Debug] Adding bitrate 48000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 56000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 64000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 72000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 80000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 96000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 112000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 128000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 144000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 160000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 192000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 224000
+[000:00:00:08.709.522.358][Debug] Adding bitrate 256000
+[000:00:00:08.721.787.445][Debug] [CoreAudio encoder]: Bitrate enumeration log:
+[000:00:00:08.721.787.445][Debug] Trying kAudioFormatMPEG4AAC_HE_V2 (0x61616370) at 44100 hz
+[000:00:00:08.721.787.445][Debug] AudioConverterNew(&in, &out, &converter): kAudioConverterErr_FormatNotSupported (1718449215)
+[000:00:00:08.721.787.445][Debug] Trying kAudioFormatMPEG4AAC_HE (0x61616368) at 44100 hz
+[000:00:00:08.721.787.445][Debug] Adding bitrate 16000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 20000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 24000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 28000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 32000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 40000
+[000:00:00:08.721.787.445][Debug] Trying kAudioFormatMPEG4AAC (0x61616320) at 44100 hz
+[000:00:00:08.721.787.445][Debug] Bitrate 32000 already added
+[000:00:00:08.721.787.445][Debug] Bitrate 40000 already added
+[000:00:00:08.721.787.445][Debug] Adding bitrate 48000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 56000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 64000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 72000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 80000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 96000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 112000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 128000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 144000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 160000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 192000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 224000
+[000:00:00:08.721.787.445][Debug] Adding bitrate 256000
+[000:00:00:08.723.265.616][Debug] AAC encoder bitrate mapping:
+[000:00:00:08.723.265.616][Debug] 	 16 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 20 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 24 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 28 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 32 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 40 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 48 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 56 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 64 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 72 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 80 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	 96 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	112 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	128 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	144 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	160 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	192 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	224 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	256 kbit/s: 'CoreAudio AAC encoder' (CoreAudio_AAC)
+[000:00:00:08.723.265.616][Debug] 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	352 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	384 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	416 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	448 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	480 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	512 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	544 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	576 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	608 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	640 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	672 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	704 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	736 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	768 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	800 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	832 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	864 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	896 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	928 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	960 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	992 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.723.265.616][Debug] 	1024 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:08.724.797.738][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:08.725.029.055][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:00:09.139.816.625][Debug] obs_encoder_update: Null 'encoder' parameter
+[000:00:00:09.140.041.947][Debug] encoder 'simple_h264_recording' (obs_x264) created
+[000:00:00:09.140.117.055][Debug] encoder 'simple_audio' (CoreAudio_AAC) created
+[000:00:00:09.140.183.347][Debug] encoder 'simple_audio' (CoreAudio_AAC) created
+[000:00:00:09.140.230.597][Info] ---------------------------------
+[000:00:00:09.140.274.674][Info] audio settings reset:
+[000:00:00:09.140.274.674][Info] 	samples per sec: 44100
+[000:00:00:09.140.274.674][Info] 	speakers:        2
+[000:00:00:09.177.851.333][Info] ---------------------------------
+[000:00:00:09.185.219.271][Info] video settings reset:
+[000:00:00:09.185.219.271][Info] 	base resolution:   1536x864
+[000:00:00:09.185.219.271][Info] 	output resolution: 1280x720
+[000:00:00:09.185.219.271][Info] 	downscale filter:  Bicubic
+[000:00:00:09.185.219.271][Info] 	fps:               30/1
+[000:00:00:09.185.219.271][Info] 	format:            NV12
+[000:00:00:09.185.219.271][Info] 	YUV mode:          601/Partial
+[000:00:00:09.200.834.574][Debug] obs_encoder_set_audio: Null 'encoder' parameter
+[000:00:00:09.200.906.508][Debug] obs_encoder_set_audio: Null 'encoder' parameter
+[000:00:00:09.200.966.100][Info] Audio monitoring device:
+[000:00:00:09.200.966.100][Info] 	name: Default
+[000:00:00:09.200.966.100][Info] 	id: default
+[000:00:00:11.607.607.506][Debug] source 'e193000b-d0ba-418a-a0fc-5a09fc30abd2' (cut_transition) created
+[000:00:00:12.286.592.151][Info] WASAPI: Device 'Speakers / Headphones (Plantronics HD1)' initialized
+[000:00:00:12.286.883.413][Debug] source 'wasapi_output_capture_ee8cf7dd-ce4f-4a36-8945-85d0c70afa61' (wasapi_output_capture) created
+[000:00:00:12.334.034.336][Info] WASAPI: Device 'Microphone (Plantronics HD1)' initialized
+[000:00:00:12.334.212.760][Debug] source 'wasapi_input_capture_9813553e-4ad0-4126-912f-c73d32208d2b' (wasapi_input_capture) created
+[000:00:00:12.339.348.984][Debug] source 'browser_source_87e37755-61b6-40d8-a4cd-00b0c8fad405' (browser_source) created
+[000:00:00:12.342.961.195][Debug] source 'browser_source_7c993934-227a-45c2-bc1e-89cf6283c168' (browser_source) created
+[000:00:00:12.347.642.894][Debug] source 'dshow_input_6d1ce993-7680-46cd-b516-7046f85c6dcf' (dshow_input) created
+[000:00:00:12.352.838.004][Debug] [Face Mask] <17F92E36060> Initializing...
+[000:00:00:12.385.209.680][Info] adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+[000:00:00:13.030.057.801][Debug] DShow: Video media type changed
+[000:00:00:13.036.548.427][Info] ---------------------------------
+[000:00:00:13.036.665.848][Info] [DShow Device: 'dshow_input_6d1ce993-7680-46cd-b516-7046f85c6dcf'] settings updated: 
+[000:00:00:13.036.665.848][Info] 	video device: EasyCamera
+[000:00:00:13.036.665.848][Info] 	video path: \\?\usb#vid_174f&pid_241a&mi_00#6&166d9edd&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+[000:00:00:13.036.665.848][Info] 	resolution: 640x360
+[000:00:00:13.036.665.848][Info] 	fps: 30.00 (interval: 333333)
+[000:00:00:13.036.665.848][Info] 	format: YUY2
+[000:00:00:13.040.756.914][Debug] DShow: Loaded filters:
+[000:00:00:13.040.888.440][Debug] DShow: 	Capture Filter
+[000:00:00:13.040.938.864][Debug] DShow: 	Video Filter
+[000:00:00:17.107.233.731][Debug] [Face Mask] <17F92E36060> Initialized.
+[000:00:00:17.107.307.076][Debug] private source 'Face Mask Plugin' (face_mask_filter) created
+[000:00:00:17.107.957.302][Debug] - filter 'Face Mask Plugin' (face_mask_filter) added to source 'dshow_input_6d1ce993-7680-46cd-b516-7046f85c6dcf'
+[000:00:00:17.120.642.003][Info] WASAPI: Device 'Microphone (Plantronics HD1)' initialized
+[000:00:00:17.120.721.694][Debug] source 'wasapi_input_capture_e372fd4b-fbcc-4359-88ce-d6aa3a602b3b' (wasapi_input_capture) created
+[000:00:00:17.123.229.156][Debug] source 'dshow_input_1c9ccc39-21b9-4a43-8ea9-79a0431f97ae' (dshow_input) created
+[000:00:00:17.140.669.606][Info] [Face Mask] Loading mask json 'C:\Users\udayv\AppData\Roaming\slobs-client\plugin_config\facemask-plugin\b41214ab-8ef1-4842-924d-be113e2b5566.json'...
+[000:00:00:17.141.555.380][Error] [Face Mask] Failed to load mask C:\Users\udayv\AppData\Roaming\slobs-client\plugin_config\facemask-plugin\b41214ab-8ef1-4842-924d-be113e2b5566.json.
+[000:00:00:17.142.056.097][Info] [Face Mask] Loading mask json 'C:\Users\udayv\AppData\Roaming\slobs-client\plugin_config\facemask-plugin\f99e23b1-0393-4a01-b4ec-369823528635.json'...
+[000:00:00:17.142.525.783][Error] [Face Mask] Failed to load mask C:\Users\udayv\AppData\Roaming\slobs-client\plugin_config\facemask-plugin\f99e23b1-0393-4a01-b4ec-369823528635.json.
+[000:00:00:17.143.003.579][Info] [Face Mask] Loading mask json 'C:\Users\udayv\AppData\Roaming\slobs-client\plugin_config\facemask-plugin\f99e23b1-0393-4a01-b4ec-369823528635.json'...
+[000:00:00:17.143.738.081][Error] [Face Mask] Failed to load mask C:\Users\udayv\AppData\Roaming\slobs-client\plugin_config\facemask-plugin\f99e23b1-0393-4a01-b4ec-369823528635.json.
+[000:00:00:17.483.904.079][Debug] DShow: Video media type changed
+[000:00:00:17.484.162.548][Debug] DShow: Video media type changed
+[000:00:00:17.484.306.416][Info] ---------------------------------
+[000:00:00:17.484.367.418][Info] [DShow Device: 'dshow_input_1c9ccc39-21b9-4a43-8ea9-79a0431f97ae'] settings updated: 
+[000:00:00:17.484.367.418][Info] 	video device: Microsoft® LifeCam HD-3000
+[000:00:00:17.484.367.418][Info] 	video path: \\?\usb#vid_045e&pid_0779&mi_00#7&3af39ee&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+[000:00:00:17.484.367.418][Info] 	resolution: 640x480
+[000:00:00:17.484.367.418][Info] 	fps: 30.00 (interval: 333333)
+[000:00:00:17.484.367.418][Info] 	format: YUY2
+[000:00:00:17.486.263.794][Debug] DShow: Loaded filters:
+[000:00:00:17.486.333.612][Debug] DShow: 	Capture Filter
+[000:00:00:17.486.373.811][Debug] DShow: 	Video Filter
+[000:00:00:18.275.852.840][Debug] source 'scene_e7c3d506-e9d7-4196-b3f3-c19fe4d2d5ff' (scene) created
+[000:00:00:18.308.343.347][Debug] source '036ef310-4014-464c-b321-3f2c277e65bb' (cut_transition) created
+[000:00:00:18.704.725.706][Info] WASAPI: Device 'Microphone (Plantronics HD1)' initialized
+[000:00:00:18.704.828.317][Debug] source 'f98dc9a9-5651-4c8b-b3ea-0984bbd82792' (wasapi_input_capture) created
+[000:00:00:18.771.025.862][Info] WASAPI: Device 'Speakers / Headphones (Plantronics HD1)' initialized
+[000:00:00:18.771.109.785][Debug] source 'c579d2ef-8b76-40f8-8002-289cd6993a32' (wasapi_output_capture) created
+[000:00:00:18.773.642.987][Debug] source '1e6f4142-968d-49a0-ae61-9b810536ba30' (dshow_input) created
+[000:00:00:18.775.404.311][Warning] 1e6f4142-968d-49a0-ae61-9b810536ba30: DecodeDeviceId failed
+[000:00:00:18.775.501.986][Warning] 1e6f4142-968d-49a0-ae61-9b810536ba30: Video configuration failed
+[000:00:00:19.055.381.010][Debug] source 'f98dc9a9-5651-4c8b-b3ea-0984bbd82792' destroyed
+[000:00:00:19.055.459.643][Info] WASAPI: Device 'Microphone (Plantronics HD1)' Terminated
+[000:00:00:19.059.021.430][Debug] source 'c579d2ef-8b76-40f8-8002-289cd6993a32' destroyed
+[000:00:00:19.059.107.469][Info] WASAPI: Device 'Speakers / Headphones (Plantronics HD1)' Terminated
+[000:00:00:19.069.957.855][Debug] source '1e6f4142-968d-49a0-ae61-9b810536ba30' destroyed
+[000:00:00:36.496.323.612][Debug] source 'window_capture_720adeda-bba0-4aea-91b1-b6108bb9464a' (window_capture) created
+[000:00:00:36.528.064.455][Info] [window-capture: 'window_capture_720adeda-bba0-4aea-91b1-b6108bb9464a'] update settings:
+[000:00:00:36.528.064.455][Info] 	executable: LockApp.exe
+[000:00:00:36.528.148.026][Debug] 	class:      Windows.UI.Core.CoreWindow
+[000:00:00:36.935.358.908][Debug] <OBS::Display::SetPosition> Adjusting display position for source window_capture_720adeda-bba0-4aea-91b1-b6108bb9464a to 0x30.
+[000:00:00:36.936.333.894][Debug] <OBS::Display::SetSize> Adjusting display size for source window_capture_720adeda-bba0-4aea-91b1-b6108bb9464a to 600x200.
+[000:00:00:44.977.723.756][Debug] source 'window_capture_720adeda-bba0-4aea-91b1-b6108bb9464a' destroyed
+[000:00:00:45.014.274.652][Debug] source 'dshow_input_1c9ccc39-21b9-4a43-8ea9-79a0431f97ae' destroyed
+[000:00:00:45.677.300.193][Debug] source 'wasapi_input_capture_e372fd4b-fbcc-4359-88ce-d6aa3a602b3b' destroyed
+[000:00:00:45.677.434.187][Info] WASAPI: Device 'Microphone (Plantronics HD1)' Terminated
+[000:00:00:45.728.879.636][Debug] - filter 'Face Mask Plugin' (face_mask_filter) removed from source 'dshow_input_6d1ce993-7680-46cd-b516-7046f85c6dcf'
+[000:00:00:45.728.949.454][Debug] private source 'Face Mask Plugin' destroyed
+[000:00:00:45.729.022.093][Debug] [Face Mask] <17F92E36060> Finalizing...
+[000:00:00:45.729.084.507][Debug] [Face Mask] <17F92E36060> Stopping worker Threads...
+[000:00:00:45.752.417.896][Debug] [Face Mask] <17F92E36060> Worker Thread stopped.
+[000:00:00:46.350.705.375][Debug] [Face Mask] <17F92E36060> Finalized.
+[000:00:00:46.353.043.580][Debug] source 'dshow_input_6d1ce993-7680-46cd-b516-7046f85c6dcf' destroyed
+[000:00:00:46.467.317.668][Debug] source 'browser_source_7c993934-227a-45c2-bc1e-89cf6283c168' destroyed
+[000:00:00:46.471.756.767][Debug] source 'browser_source_87e37755-61b6-40d8-a4cd-00b0c8fad405' destroyed
+[000:00:00:46.517.118.510][Debug] source 'wasapi_output_capture_ee8cf7dd-ce4f-4a36-8945-85d0c70afa61' destroyed
+[000:00:00:46.517.306.455][Info] WASAPI: Device 'Speakers / Headphones (Plantronics HD1)' Terminated
+[000:00:00:46.567.846.735][Debug] source 'wasapi_input_capture_9813553e-4ad0-4126-912f-c73d32208d2b' destroyed
+[000:00:00:46.567.947.231][Info] WASAPI: Device 'Microphone (Plantronics HD1)' Terminated
+[000:00:00:46.592.142.418][Debug] source 'e193000b-d0ba-418a-a0fc-5a09fc30abd2' destroyed
+[000:00:00:46.984.891.760][Debug] source 'scene_e7c3d506-e9d7-4196-b3f3-c19fe4d2d5ff' destroyed
+[000:00:00:46.985.436.201][Debug] source '036ef310-4014-464c-b321-3f2c277e65bb' destroyed
+[000:00:00:47.011.394.121][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:47.011.609.218][Debug] encoder 'simple_h264_recording' destroyed
+[000:00:00:47.011.702.662][Debug] output 'simple_stream' destroyed
+[000:00:00:47.011.911.411][Debug] output 'simple_file_output' destroyed
+[000:00:00:47.012.100.414][Debug] service 'default_service' destroyed
+[000:00:00:47.045.337.412][Info] Freeing OBS context data
+[000:00:00:47.045.396.652][Debug] encoder 'simple_audio' destroyed
+[000:00:00:47.045.579.660][Debug] encoder 'simple_audio' destroyed
+[000:00:00:47.045.642.426][Info] 	2 encoder(s) were remaining
